@@ -11,8 +11,8 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
 // Values
-let email = "juan.montes.alumno@ibipanama.edu.pa";
-let password = "oibas rop odamot se oicen le atsah 12";
+let email = "my_email";
+let password = "my_password";
 let head = true;
 let strict = true;
 
